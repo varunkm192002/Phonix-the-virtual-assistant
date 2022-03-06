@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix = "resources">
+    <file>icons/frame10.jpg</file>
+    <file>icons/lines1.gif</file>
+    <file>icons/powersource.gif</file>
+    <file>icons/in.gif</file>
+    <file>icons/phoenix.png</file>
+    <file>icons/globe.gif</file>
+  </qresource>
+</RCC>

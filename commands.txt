@@ -1,0 +1,33 @@
+1. Date - tell me date.
+2. Time - tell me time.
+3. Launch app - launch app (explicit path creation).
+4. open website-open 'url'.
+5. weather - tell me weather of  'city'.
+6. wikipedia search - tell me about 'thing'.
+7. news - tell me about today's news. 
+8. Music - play music.
+9. YouTube Search- play 'thing' on YouTube and  Google search - search google for 'thing/place'.
+10. Joke - tell me a/another/one-more joke.
+11. Location - where is 'place'.
+12. IP address - what is my ip address
+13. Switch window - switch window.
+14. My location - where I am , current location, where am I.
+15. Screenshot - take a screenshot 
+16. Hide all files - hide all files
+17. Make files visible- make files visible
+18. Calculate - calculate + 'expression'.
+19. Computational Intelligence - what is 'thing'.
+20. Goodbye/you can sleep now/wake up - goodbye/offline/bye/wake up/ you can sleep now.
+21. Shutdown/restart system- shutdown/restart the system.
+22. Remember stuff -  'remember that' and to fetch 'do you remember anything'.
+23. Who are you/ Who made you - who are you/who made you
+24. wish me- ["hello phoenix", "phoenix", "wake up phoenix", "you there phoenix", "time to work phoenix", "hey phoenix",
+             "ok phoenix", "are you there", "how are you phoenix", "how are you"]
+25. Birthday Wishes - It's my birthday today.
+
+
+            
+
+
+
+
